@@ -4,8 +4,11 @@ public class sample {
 	private void test1() {
 		System.out.println("kumar");
 	}
+	private void test1(String b) {
+		System.out.println("gopi");
+	}
 	private void test1(int a) {
-		System.out.println("kumar");
+		System.out.println("muthu");
 	}
 	private void test2() {
 		// TODO Auto-generated method stub
