@@ -5,7 +5,7 @@ public class sample {
 		System.out.println("kumar");
 	}
 	private void test1(int a) {
-		System.out.println("kumar");
+		System.out.println("muthu");
 	}
 
 }
