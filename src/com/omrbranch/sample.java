@@ -11,7 +11,7 @@ public class sample {
 		System.out.println("muthu");
 	}
 	private void test2() {
-		System.out.println("New code added by muthu");
+		System.out.println("code changed by manikam");
 	}
 
 }
