@@ -11,8 +11,7 @@ public class sample {
 		System.out.println("muthu");
 	}
 	private void test2() {
-		// TODO Auto-generated method stub
-
+		System.out.println("New code added by muthu");
 	}
 
 }
